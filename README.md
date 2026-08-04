@@ -1,11 +1,12 @@
 # Hi there 👋 I'm Sadia Parveen
 
-### 🤖 AI Engineer & Data Scientist | MSc Statistics & Data Science @ Hasselt University
+### 🤖 AI Engineer & Data Scientist | MSc Statistics & Data Science — Hasselt University 🎓
 
 ---
 
 ### 🌊 About Me:
-- 🔭 Currently working on my **Master's Thesis**: LLM-based schema matching for healthcare data integration
+- 🎓 **Graduated with Distinction** – MSc Statistics & Data Science, Hasselt University (2026)
+- 📝 **Master's Thesis**: LLM-based schema matching for healthcare data integration (GPT-4-turbo + Claude Sonnet)
 - 🏆 **Winner** – ADB Safegate "Code the Sky" Hackathon (GDG KU Leuven, 2026)
 - 🧠 Building with **GenAI, RAG, Voice Assistants, and Explainable AI**
 - 🌍 Based in **Antwerp, Belgium**
@@ -61,15 +62,15 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaparveen-git&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sadiaparveen-git&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -77,7 +78,7 @@
 ### 🏅 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadiaparveen-git&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sadiaparveen-git&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
