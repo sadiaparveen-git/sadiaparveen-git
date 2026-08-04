@@ -16,9 +16,7 @@
 ---
 
 ### 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadiaparveen)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sadiaparveen-git)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sadya.z/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sadia-parveen-datascientist/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiaparveen.doc@gmail.com) 
 
 ---
 
@@ -44,6 +42,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -61,19 +61,9 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadiaparveen-git&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
+![](https://github-readme-stats.shion.dev/api?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sadiaparveen-git&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏅 GitHub Trophies:
 
