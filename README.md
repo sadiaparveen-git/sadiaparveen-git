@@ -66,11 +66,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sadiaparveen-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏅 GitHub Trophies:
+![](https://github-trophies.vercel.app/?username=sadiaparveen-git&theme=darkhub&no-frame=true&margin-w=4)<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadiaparveen-git&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
-</p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=sadiaparveen-git&icon=0&color=0)](https://visitcount.itsvg.in)
