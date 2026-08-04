@@ -8,7 +8,7 @@
 - 🎓 **Graduated with Distinction** – MSc Statistics & Data Science, Hasselt University (2026)
 - 📝 **Master's Thesis**: LLM-based schema matching for healthcare data integration (GPT-4-turbo + Claude Sonnet)
 - 🏆 **Winner** – ADB Safegate "Code the Sky" Hackathon (GDG KU Leuven, 2026)
-- 🧠 Building with **GenAI, RAG, Voice Assistants, and Explainable AI**
+- 🧠 Building with Predictive Modeling **GenAI, RAG piplelines, and Explainable AI**
 - 🌍 Based in **Antwerp, Belgium**
 - 💬 Ask me about **Python, LLMs, FastAPI, Machine Learning, and AI prototyping**
 - 📫 Reach me at: **sadiaparveen.doc@gmail.com**
